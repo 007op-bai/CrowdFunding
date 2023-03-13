@@ -89,7 +89,7 @@ export default function Footer() {
           >
             Github
           </Link>
-          <Link href={"mailto:kumaranraja777@gmail.com"} isExternal>
+          <Link href={"mailto:elavarasivel1976@gmail.com} isExternal>
             Contact
           </Link>
         </Stack>
@@ -109,7 +109,7 @@ export default function Footer() {
           justify={{ base: "center", md: "space-between" }}
           align={{ base: "center", md: "center" }}
         >
-          <Text>🌐 Made while by Aakash, Dharshini , Shane & Kumaran</Text>
+          <Text>🌐 Made while by Dhinesh,sivaraaj,Mohamed Hammem</Text>
           <Stack direction={"row"} spacing={6}>
             <SocialButton label={"Website"} href={"https://www.google.com/"}>
               {" "}
