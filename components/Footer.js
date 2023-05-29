@@ -89,7 +89,7 @@ export default function Footer() {
           >
             Github
           </Link>
-          <Link href={"mailto:elavarasivel1976@gmail.com} isExternal>
+          <Link href={"mailto:elavarasivel1976@gmail.com"} isExternal>
             Contact
           </Link>
         </Stack>
